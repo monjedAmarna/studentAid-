@@ -2,7 +2,7 @@ import { useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import { useNavigate } from "react-router-dom";
 
-const API_URL = "https://flaskapi-l2jk.onrender.com";
+const API_URL = "https://flaskapi-1-dwl5.onrender.com";
 
 const ChatBot = () => {
   const chatWindowRef = useRef(null);
